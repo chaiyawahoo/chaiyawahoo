@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![wakatime](https://wakatime.com/badge/user/9a0d54c4-c857-430e-b657-30f6c88c5147.svg)](https://wakatime.com/@9a0d54c4-c857-430e-b657-30f6c88c5147)
+
 <!--
 **chaiyawahoo/chaiyawahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
